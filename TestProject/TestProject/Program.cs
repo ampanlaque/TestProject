@@ -12,6 +12,6 @@ namespace TestProject {
 }
 
 
-//test
+//sample
 
 //for conflict 2
